@@ -25,7 +25,7 @@ let currentInnerHTML = ""
 
 function addToConsoleLine(text){
     return new Promise((resolve, reject) => {
-        currentInnerHTML += `<p">`
+        currentInnerHTML += `<p>`
         let i = 0
         let inhtmlTag = false
         addToConsoleChar()
