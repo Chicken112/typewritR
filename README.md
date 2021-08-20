@@ -11,7 +11,7 @@ addLine("Hello World!");
 
 ## features
  - Support for html tags
- - Support for colors (Using `<span>` tags)
+ - Support for colors (Using `<span class="red">` tags)
 
 ## limitations
   - Only one object can be typed out
