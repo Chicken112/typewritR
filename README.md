@@ -1,4 +1,4 @@
-# typewritR
+![TypewritR logo](https://github.com/Chicken112/typewritR/blob/main/typewriteR.gif?raw=true)
 A vanilla js typewriter effect to use in your webpage
 
 
